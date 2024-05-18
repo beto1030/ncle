@@ -102,3 +102,17 @@ main > .card{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* shadow effect */
 }
 ```
+
+# Create flashcard html structure function
+that takes 3 parameters term, def, category
+
+# Read text file
+that creates a array that is populated using the built in javascript split function with newline character
+
+then loop through this array that contains one line of text file per element eliminating spaces in front and at the end of each line using javascript native function trim.
+
+Then check if the line is not empty.
+
+If not empty then create desctructured array to store the term,def,category that are all seperated with a colon symbol.
+
+Inside that same loop call the createFlashcards function to dynamically create these elements after each iteration of the loop
