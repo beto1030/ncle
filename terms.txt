@@ -1,0 +1,31 @@
+Average horizontal corneal diameter:11.7:Anatomy
+
+What tool is used to measure the base curve of a GP contact lens:Radiuscope:Tools
+
+What are the two basic scales used on a corneal topographer:Absolute and normalized:Corneal Topography
+
+A progressive, non-inflammatory condition in which the cornea thins and bulges forward is called:Keratoconus:Ocular Condition
+
+The crystalline lens is responsible for approximately how much refractive power:15.00D to 16.00D:Anatomy
+
+Two thirds of the eye’s refractive power is provided by the:Cornea:Anatomy
+
+A build up of fluid in the cells is called:Edema:Ocular Condition
+
+In order to reduce the risk of damaging a GP lens during modification because of heat, it is important to:Use lots of water and polish:Preventive Measures in Contact Lens Handling
+
+At what point do contact lens powers need to be vertexed:+/- 4.00D:Vertex Conversion
+
+At what point should a topic lens be considered for a soft lens candidate:0.75D of refractive astigmatism:Threshold for Toric Lens Prescription
+
+The evaluation of a contact lens fit is done with what tool:Slit Lamp:Tools
+
+How much overlap onto the sclera should there be in every direction for a well fit soft lens:1mm:Optimal Scleral Overlap
+
+Sclera indentation is an indication of:Tightly fit soft lenses:Signs of Poor Lens Fit
+
+What can be used to evaluate the blends of a GP lens:Fluorescent bulb:Tools
+
+The corneal topographer is based on the principles of the:Placido disk:Corneal Topography
+
+When converting diopters to mm of radius, every 0.25D equal approximately:0.05mm of radius:Diopters to Radius Conversion
