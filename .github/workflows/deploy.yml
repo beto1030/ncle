@@ -3,23 +3,34 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this to your default branch if different
+      - main  # Ensure this matches your default branch
 
 jobs:
   deploy:
-    runs-on: macos-latest
+    runs-on: macos-latest # or macos-latest if you prefer macOS
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-      with:
-        persist-credentials: false
 
-    - name: Setup GitHub token
-      run: git config --global url."https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "https://github.com/"
+    - name: Set up Git configuration
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Install Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'  # Use a compatible Node.js version
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build the project
+      run: npm run build  # Adjust this to your build command, or remove if not needed
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./ # Change this to your build output directory
+        publish_dir: ./  # Ensure this points to your build output directory, or `./` for root
