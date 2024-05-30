@@ -12,6 +12,11 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+
+    - name: Setup GitHub token
+      run: git config --global url."https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "https://github.com/"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
