@@ -64,7 +64,22 @@ document.addEventListener('DOMContentLoaded', function() {
 
         cardWrapper.appendChild(card);
         categories.add(category);
+
+        adjustFontSize(front.querySelector('.term'));
+        adjustFontSize(back.querySelector('.term'));
     }
+    function adjustFontSize(element) {
+        let fontSize = parseInt(window.getComputedStyle(element).fontSize);
+        const maxHeight = element.parentElement.clientHeight;
+        const maxWidth = element.parentElement.clientWidth;
+
+        while (element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) {
+            fontSize -= 1;
+            element.style.fontSize = `${fontSize}px`;
+            if (fontSize <= 10) break; // Prevent font size from getting too small
+        }
+    }
+
 
     function updateCategoryDropdown() {
         categorySelect.innerHTML = '<option value="all">All</option>';

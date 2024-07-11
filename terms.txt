@@ -29,3 +29,24 @@ What can be used to evaluate the blends of a GP lens:Fluorescent bulb:Tools
 The corneal topographer is based on the principles of the:Placido disk:Corneal Topography
 
 When converting diopters to mm of radius, every 0.25D equal approximately:0.05mm of radius:Diopters to Radius Conversion
+Alternating vision bifocal: A bifocal contact lens designed much like a bifocal spectacle lens, with the distance prescription in the upper portion and the near prescription in the lower portion. The lens is designed to move (translate) up as the patient looks down, enabling the wearer to read through the lower portion of the lens. : Contact Lens
+
+Amblyopia: Loss of vision without any apparent disease of the eye. : Vision Condition
+
+Ametropia: A refractive error in which the eye, when in a state of rest, does not focus the image of an object clearly upon the retina; includes hyperopia, myopia, and astigmatism. (See also refractive error) : Refractive Error
+
+Anionic (an-eye-ON-ic): A term applied to chemicals in contact lens solutions that carry a negative electrostatic charge. : Chemistry
+
+Aniridia: Partial or total absence of the iris (can be congenital or traumatic). Congenital aniridia is often accompanied by glaucoma, nystagmus, amblyopia, buphthalmos, macular and optic nerve hypoplasia, and cataract. : Eye Condition
+
+Anisocoria: Difference in the size of the pupils from one eye to the other. : Eye Condition
+
+Aniseikonia: A condition in which the ocular image of an object as seen by one eye differs so much in size or shape from that seen by the other eye that the two images cannot be fused into a single impression. : Vision Condition
+
+Annular bifocal (AN-you-lar): A bifocal contact lens with two zones; a circular zone centrally that contains the distance prescription, surrounded by a ring that contains the near prescription or a near central zone surrounded by a distance ring. It usually works on the principle of simultaneous vision, but some annular bifocals may translate. : Contact Lens
+
+Anomaly: Departure from the normal. : General
+
+Anophthalmia: Absence of the eyeball. : Eye Condition
+
+Anterior Chamber: Fluid-filled space inside the eye, bounded in front by the cornea and behind by the iris; filled with aqueous humor. : Anatomy
