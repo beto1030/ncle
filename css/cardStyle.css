@@ -5,7 +5,7 @@ main {
 }
 main > .card {
     text-align: center;
-    font-size: 30px;
+    font-size: 18pt;
 
     height: 200px;
     width: 400px;
@@ -19,12 +19,10 @@ main > .card {
     position: relative;
 
     perspective: 1000px;
+
 }
 
 main > .card > .front, main > .card > .back {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
     height: 100%;
     width: 100%;
@@ -35,11 +33,12 @@ main > .card > .front, main > .card > .back {
 
     border: 1px solid black;
     border-radius: 5px;
+    
 }
 .category {
-    position: absolute;
-    top: 10px;
-    left: 10px;
     font-size: 14px; /* Adjust as needed */
     color: #888; /* Optional: Adjust color */
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 10px;
 }
