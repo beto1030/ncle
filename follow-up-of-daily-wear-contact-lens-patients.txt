@@ -1,0 +1,107 @@
+The average reading distance for most patients is _____ inches:14 to 16:Follow-Up and Maintenance
+
+During the subjective examination, you should...:Listen and document everything the patient says, selecting useful information.:Patient Interaction and Documentation
+
+Which instrument can be used to detect warpage of a rigid contact lens?:Radiuscope or keratometer:Lens Evaluation and Fitting
+
+What will cause flare?:Decentration. The optical zone of the lens must cover the visual axis adequately (essentially enough to cover the pupil even when it is dilated) to prevent flare. If the optical zone is too small, the peripheral curves may intrude into the visual pathway, leading to visual disturbances such as flare.:Lens Evaluation and Fitting
+
+Spherical Equivalent:All sphere power plus half the cylinder power.:Lens Power and Optics
+
+What type of cells are visible with a fluorescein stain?:Damaged epithelial cells. Fluorescein primarily stains damaged or compromised epithelial cells on the surface of the cornea. When viewed with a cobalt blue filter, the fluorescein-stained areas appear green, highlighting the damaged regions and helping to diagnose the cause of the problem.:Contact Lens Complications and Diagnostics
+
+How much change in K readings acceptable at a follow up?:0.50D:Follow-Up and Maintenance
+
+Over-refracting patients wearing rigid contact lenses usually reveals little, if any:Residual Cylinder.:Contact Lens Complications and Diagnostics
+
+Central corneal clouding is a sign of:Edema.:Contact Lens Complications and Diagnostics
+
+Design feature that is useful for rotation of a front toric contact lens:Prism ballast or truncation:Lens Evaluation and Fitting
+
+During over-refraction, the term fogging refers to...:Adding plus power to the end result to verify that it does indeed blur the vision. And to also ensure that accommodation is relaxed.:Contact Lens Complications and Diagnostics
+
+Oily deposits on lens surfaces, from soap or other cosmetics, causes...:Reduced wettability.:Contact Lens Complications and Diagnostics
+
+The follow up exam with lenses in situ should be conducted...:After 6 or more hours of wear. This will allow time for any adverse reaction to be detected.:Follow-Up and Maintenance
+
+Spectacle blur should disappear how long after lens removal?:After 20 minutes. Spectacle blur can occur after the removal of rigid contact lenses because these lenses may temporarily alter the shape of the cornea, thereby changing its refractive power. It typically takes about 20 minutes for the cornea to return to its natural shape and for clear vision through spectacles to be restored.:Follow-Up and Maintenance
+
+Another name for the duochrome test is the ____ test.:red/green. The red/green test is helpful in detecting minute amounts of residual hyperopia or myopia.:Contact Lens Complications and Diagnostics
+
+Polymegathism:Is the variation of cell size in the corneal endothelium. The endothelium consists of a single layer of cells that do not regenerate, so any abnormal changes in cell number OR size due to contact lens wear is definitely cause for concern.:Contact Lens Complications and Diagnostics
+
+What best describes the lens/cornea relationship of a properly fit soft lens?:3-point touch.:Lens Evaluation and Fitting
+
+New blood vessels appearing in the corneal tissue is called...:Neovascularization. Retro-illumination is useful for viewing the presence of blood vessels that have invaded the cornea. Contact lens induced vascularization is one of the most frequent complications of lens wear. Most commonly seen in extended wear, sometimes in daily.:Contact Lens Complications and Diagnostics
+
+What color is fluorescein when viewed under ultraviolet light?:Green. Fluorescein is viewed under ultraviolet light using a cobalt blue filter to show a green color.:Contact Lens Complications and Diagnostics
+
+Spectacle blur is caused by...:Corneal changes. Contact lenses, typically rigid contact lenses, may alter the shape of the cornea temporarily for 20 mins.:Contact Lens Complications and Diagnostics
+
+Which type of lens is used to correct residual astigmatism?:Toric lenses. For low to moderate astigmatism, front surface toric lenses are often sufficient and are commonly used in soft contact lenses. For high astigmatism, back surface toric lenses or custom RGP lenses may provide more precise correction and better stability.:Lens Power and Optics
+
+Epithelial thinning is a result of...:Decreased cell mitosis. This is a fundamental concept in biology. Mitosis is a critical process in eukaryotic cells that ensures the equal distribution of genetic material to two daughter cells. Proper regulation of mitosis is essential for growth, development, and tissue repair.:Lens Power and Optics
+
+Quality of lens surfaces should be evaluated by the fitter on or off the eye?:Both on and off the eye. While the lenses are on the eye we check for centration, movement, lens surface, lens/cornea relationship. While the lenses are removed we check for corneal integrity and giant papillary conjunctivitis.:Lens Evaluation and Fitting
+
+Some contact lens problems may be related to...:Using the wrong solutions, a dirty case, or patient-non-compliance.:Follow-Up and Maintenance
+
+What does the SOAP acronym stand for?:Subjective Objective Assessment Plan.:Patient Interaction and Documentation
+
+Sharp pain upon insertion, or suddenly:Foreign body, damaged lens:Rigid Lens Symptoms
+
+Pain after several hours of wear:Lens rubs the cornea, either centrally due to flat lens/cornea relationship, or peripherally due to poor edge:Rigid Lens Symptoms
+
+Burning upon insertion:Reaction to solution:Rigid Lens Symptoms
+
+Burning after several hours of wear:Improper blinking, tight fit, poor lens movement:Rigid Lens Symptoms
+
+Excessive blinking:Lens awareness:Rigid Lens Symptoms
+
+Excessive tearing:Damaged or dirty lens:Rigid Lens Symptoms
+
+Itching:Allergic reaction to solutions, environment, or material:Rigid Lens Symptoms
+
+Scratchy feeling:Foreign body, lens damage, improper edge design:Rigid Lens Symptoms
+
+Photophobia:Edema, dirty lens, corneal abrasion:Rigid Lens Symptoms
+
+Poor visual acuity:Dirty lens, switched lenses, corneal changes:Rigid Lens Symptoms
+
+Foggy or smokey vision:Edema, dirty lens:Rigid Lens Symptoms
+
+Flare:Too small optical zone, decentration, large pupil:Rigid Lens Symptoms
+
+Ghost images:Residual astigmatism, warped lens:Rigid Lens Symptoms
+
+Headaches:Wrong power, edema:Rigid Lens Symptoms
+
+Problems reading:Wrong power, onset of presbyopia:Rigid Lens Symptoms
+
+Sharp pain upon insertion, or suddenly:Foreign body, damaged lens:Soft Lens Symptoms
+
+Pain after several hours of wear:Poor fit:Soft Lens Symptoms
+
+Burning upon insertion:Reaction to solution:Soft Lens Symptoms
+
+Burning after several hours of wear:Tight lens, improper blinking:Soft Lens Symptoms
+
+Excessive blinking:Lens awareness, lens damage:Soft Lens Symptoms
+
+Excessive tearing:Lens damage:Soft Lens Symptoms
+
+Itching:Allergic reaction to solutions, lens deposits, environment, material:Soft Lens Symptoms
+
+Scratchy feeling:Foreign body, lens damage, lens deposits, edge standoff:Soft Lens Symptoms
+
+Photophobia:Edema, dirty lens:Soft Lens Symptoms
+
+Poor visual acuity:Dirty lens, switched lenses, wrong power:Soft Lens Symptoms
+
+Foggy or smokey vision:Edema:Soft Lens Symptoms
+
+Ghost images:Residual astigmatism, oily film on lens:Soft Lens Symptoms
+
+Headaches:Wrong power, edema:Soft Lens Symptoms
+
+Problems reading:Wrong power, onset of presbyopia:Soft Lens Symptoms

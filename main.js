@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const categorySelect = document.getElementById('category-select');
     let categories = new Set();
 
+    /*
     loginForm.addEventListener('submit', function(event) {
         event.preventDefault();
         const username = document.getElementById('username').value;
@@ -24,6 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Invalid credentials');
         }
     });
+    */
 
     function loadFlashcards() {
         // Clear existing cards to prevent duplication
@@ -91,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    fetch('terms.txt')
+    fetch('follow-up-of-daily-wear-contact-lens-patients.txt')
         .then(response => response.text())
         .then(data => {
             const terms = data.split('\n').filter(line => line.trim() !== '');
