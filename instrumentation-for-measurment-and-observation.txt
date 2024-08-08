@@ -27,7 +27,7 @@ Keratometer fixation techniques will not produce true measurments due to what oc
 
 The eyepiece of the keratometer should be focused how often?:Daily:Instrumentation for Measurment and Observation
 
-How to extend the range of keratometer readings?By placing a trail lens over the eyepiece. -1.00D trail lens will provide a lower range to 30D. +1.25D will provide a higher range to 61D:Instrumentation for Measurment and Observation
+How to extend the range of keratometer readings?:By placing a trail lens over the eyepiece. -1.00D trail lens will provide a lower range to 30D. +1.25D will provide a higher range to 61D:Instrumentation for Measurment and Observation
 
 The keratometer eyepiece if not properly focused can cause...:Errors in correctly reading curvature:Instrumentation for Measurment and Observation
 
