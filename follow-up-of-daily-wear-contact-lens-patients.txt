@@ -1,26 +1,26 @@
-The average reading distance for most patients is _____ inches:14 to 16:Follow-Up and Maintenance
+The average reading distance for most patients is _____ inches:14 to 16:General
 
-During the subjective examination, you should...:Listen and document everything the patient says, selecting useful information.:Patient Interaction and Documentation
+During the subjective examination, you should...:Listen and document everything the patient says, selecting useful information.:Subjective
 
-Which instrument can be used to detect warpage of a rigid contact lens?:Radiuscope or keratometer:Lens Evaluation and Fitting
+Which instrument can be used to detect warpage of a rigid contact lens?:Radiuscope or keratometer:tool
 
-What will cause flare?:Decentration. The optical zone of the lens must cover the visual axis adequately (essentially enough to cover the pupil even when it is dilated) to prevent flare. If the optical zone is too small, the peripheral curves may intrude into the visual pathway, leading to visual disturbances such as flare.:Lens Evaluation and Fitting
+What will cause flare?:Decentration. The optical zone of the lens must cover the visual axis adequately (essentially enough to cover the pupil even when it is dilated) to prevent flare. If the optical zone is too small, the peripheral curves may intrude into the visual pathway, leading to visual disturbances such as flare.:Symptom in Rigid Lens Wear
 
-Spherical Equivalent:All sphere power plus half the cylinder power.:Lens Power and Optics
+Spherical Equivalent:All sphere power plus half the cylinder power.:General
 
-What type of cells are visible with a fluorescein stain?:Damaged epithelial cells. Fluorescein primarily stains damaged or compromised epithelial cells on the surface of the cornea. When viewed with a cobalt blue filter, the fluorescein-stained areas appear green, highlighting the damaged regions and helping to diagnose the cause of the problem.:Contact Lens Complications and Diagnostics
+What type of cells are visible with a fluorescein stain?:Damaged epithelial cells. Fluorescein primarily stains damaged or compromised epithelial cells on the surface of the cornea. When viewed with a cobalt blue filter, the fluorescein-stained areas appear green, highlighting the damaged regions and helping to diagnose the cause of the problem.:Fluorescein
 
-How much change in K readings acceptable at a follow up?:0.50D:Follow-Up and Maintenance
+How much change in K readings acceptable at a follow up?:0.50D:Kerotometry
 
-Over-refracting patients wearing rigid contact lenses usually reveals little, if any:Residual Cylinder.:Contact Lens Complications and Diagnostics
+Over-refracting patients wearing rigid contact lenses usually reveals little, if any:Residual Cylinder.:Rigid lens
 
-Central corneal clouding is a sign of:Edema.:Contact Lens Complications and Diagnostics
+Central corneal clouding (CCC) is a sign of:Edema.:Objective
 
-Design feature that is useful for rotation of a front toric contact lens:Prism ballast or truncation:Lens Evaluation and Fitting
+Design feature that is useful for rotation of a front toric contact lens:Prism ballast or truncation:Lens Design
 
-During over-refraction, the term fogging refers to...:Adding plus power to the end result to verify that it does indeed blur the vision. And to also ensure that accommodation is relaxed.:Contact Lens Complications and Diagnostics
+During over-refraction, the term fogging refers to...:Adding plus power to the end result to verify that it does indeed blur the vision. And to also ensure that accommodation is relaxed.:Confirm Over-refraction
 
-Oily deposits on lens surfaces, from soap or other cosmetics, causes...:Reduced wettability.:Contact Lens Complications and Diagnostics
+Oily deposits on lens surfaces, from soap or other cosmetics, causes...:Reduced wettability.:Lens care
 
 The follow up exam with lenses in situ should be conducted...:After 6 or more hours of wear. This will allow time for any adverse reaction to be detected.:Follow-Up and Maintenance
 
@@ -105,3 +105,113 @@ Ghost images:Residual astigmatism, oily film on lens:Soft Lens Symptoms
 Headaches:Wrong power, edema:Soft Lens Symptoms
 
 Problems reading:Wrong power, onset of presbyopia:Soft Lens Symptoms
+
+Lens-Corneal Adhesion: The lens sticks too closely to the cornea. :Objective Follow-up
+
+Hypoxia: Insufficient oxygen to the cornea. :Objective Follow-up
+
+Impingement: Lens presses too tightly on corneal and conjunctival tissues. :Objective Follow-up
+
+Staining: Epithelial defects or corneal damage visible with fluorescein staining. :Objective Follow-up
+
+Edema: Corneal swelling from lack of oxygen and poor tear exchange. :Objective Follow-up
+
+Conjunctival Redness (Hyperemia): Increased redness due to higher blood flow. :Objective Follow-up
+
+Reduced Tear Exchange: Decreased tear movement under the lens, causing debris build-up. :Objective Follow-up
+
+Impaired Tear Film Dynamics: Changes in tear film function due to lens fit. :Objective Follow-up
+
+Lens Indentation Marks: Marks on cornea or conjunctiva from a tight lens. :Objective Follow-up
+
+Neovascularization: Growth of new blood vessels into the cornea due to oxygen deprivation: Condition
+
+Minus tear: A tear layer that decreases the effective power of the contact lens: Optics
+
+Apical: Relating to the apex or the central point of the cornea: Anatomy
+
+Ghosting: A secondary image seen due to irregular astigmatism or lens fit: Symptom
+
+Presbyopic: Relating to presbyopia, the age-related loss of near focusing ability: Condition
+
+Simultaneous vision: A contact lens design that provides both near and distance vision at the same time: Lens Design
+
+Monovision: A technique using one lens for distance and one for near vision: Vision Correction
+
+Residual astigmatism: Astigmatism that remains after fitting contact lenses: Condition
+
+Low modulus lens: A soft and flexible contact lens material: Lens Material
+
+High modulus lens: A stiffer and less flexible contact lens material: Lens Material
+
+Mucoid discharge: Thick, mucus-like discharge from the eyes: Symptom
+
+Accommodative emmetropia: The ability of the eye to focus and maintain clear vision at various distances: Condition
+
+Neovascularization: Growth of new blood vessels into the cornea due to oxygen deprivation: Condition
+
+Pre corneal tearing: Tears that form and move across the cornea: Symptom
+
+Lenticular astigmatism: Astigmatism originating from the lens of the eye: Condition
+
+Corneal abrasion: A scratch or injury to the cornea: Injury
+
+Scleral lens: A large-diameter contact lens that rests on the sclera: Lens Type
+
+Diffuse staining: Broad, scattered staining of the cornea: Symptom
+
+Against the rule of astigmatism: Astigmatism where the steepest curve is in the horizontal meridian: Condition
+
+With the rule of astigmatism: Astigmatism where the steepest curve is in the vertical meridian: Condition
+
+Hypoxia: Insufficient oxygen reaching the tissues, such as the cornea: Condition
+
+Preservatives: Chemicals added to contact lens solutions to prevent contamination: Solutions
+
+Progent: A contact lens cleaning product used for removing protein deposits: Solutions
+
+Episcleritis: Inflammation of the episclera, the outer layer of the sclera: Condition
+
+Conjunctivitis: Inflammation of the conjunctiva, also known as pink eye: Condition
+
+Corneal stippling: Small, punctate areas of staining on the cornea: Symptom
+
+Dimple veiling: Indentation of the cornea due to trapped air bubbles under a lens: Symptom
+
+Corneal Vascularization: Growth of new blood vessels into the cornea due to oxygen deprivation: Condition
+
+Arculate staining: Crescent-shaped staining on the cornea: Symptom
+
+Edema: Swelling of the cornea due to fluid accumulation: Condition
+
+Prism ballast: A lens design that uses thickness to stabilize the lens: Lens Design
+
+Foreign Body tracks: Linear abrasions caused by a foreign object in the eye: Injury
+
+Keratoconjunctivitis Sicca: Dry eye syndrome: Condition
+
+Enzymatic cleaning: Using enzyme-based cleaners to remove protein deposits from lenses: Maintenance
+
+CLARE: Contact Lens-Induced Acute Red Eye, an inflammatory reaction: Condition
+
+Mucin balls: Small, spherical collections of mucus trapped under a lens: Symptom
+
+Central air bubble: An air bubble trapped in the center of a contact lens: Symptom
+
+Minus Carrier: A design feature of a contact lens that aids in handling and comfort: Lens Design
+
+Superior Epithelial Arcuate Lesion: An arc-shaped lesion on the upper cornea: Symptom
+
+Protein build-up: Accumulation of protein deposits on the lens surface: Maintenance
+
+Superficial Punctate Keratitis: Small, superficial corneal erosions: Condition
+
+Microcysts: Small cysts in the corneal epithelium: Symptom
+
+3 and 9 o'clock staining: Staining at the horizontal meridian of the cornea: Symptom
+
+Giant Papillary Conjunctivitis: An allergic reaction causing large papillae on the inner eyelid: Condition
+
+Tight lens syndrome: Discomfort and redness caused by a lens that fits too tightly: Symptom
+
+Epithelial split: A break in the corneal epithelial layer: Injury

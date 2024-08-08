@@ -93,10 +93,10 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    fetch('follow-up-of-daily-wear-contact-lens-patients.txt')
+    fetch('instrumentation-for-measurment-and-observation.txt')
         .then(response => response.text())
         .then(data => {
-            const terms = data.split('\n').filter(line => line.trim() !== '');
+            const terms = data.split('\n').filter(line => line.trim() !== '' && !line.startsWith('#'));
             terms.forEach(term => createCard(term));
             updateCategoryDropdown();
         })
