@@ -1,0 +1,42 @@
+# Instrumentation for Measurment and Observation
+The doubling device of the keratometer is necessary due to...:Fine tremor of the eye.:Instrumentation for Measurment and Observation
+
+What doubling technique is typically utilized by the keratometer?:Constant object size with variable doubling.:Instrumentation for Measurment and Observation
+
+What is the primary use of the keratometer?:To measure the radius of curvature of the apex of the anterior surface of the cornea.:Instrumentation for Measurment and Observation
+
+what is the combined refractive index of the cornea and aqueous?:1.3375:Instrumentation for Measurment and Observation
+
+What is the conversion formula of diopter to millimeter?:Diopters=(1.3375 - 1.00)/meters:Instrumentation for Measurment and Observation
+
+How to convert meters to millimeters:D=337.5/meters:Instrumentation for Measurment and Observation
+
+The size of the mire (target) on the front of the keratometer is...:64mm:Instrumentation for Measurment and Observation
+
+What is the distance from the front of the keratometer to the front of the cornea when the keratometer is in focus is...:75mm:Instrumentation for Measurment and Observation
+
+The keratometer derives its measurment of a meridian from how many points on the cornea?:2:Instrumentation for Measurment and Observation
+
+The range of curvatures the keratometer can measure without auxiliary lenses is...:36.00D to 52.00D:Instrumentation for Measurment and Observation
+
+The chord length of the mire measured by the keratometer without auxiliary lenses is...:3.8mm to 2.6mm:Instrumentation for Measurment and Observation
+
+When classic keratometry is preformed by having the patient sight on the mirror image of their eye, alignment of what is accomplished?:The optical axis with the visual axis:Instrumentation for Measurment and Observation
+
+Keratometer fixation techniques will not produce true measurments due to what ocular conditions?:Unusually high astigmatism, post-cataract extraction, post-keratoplasty, irregular astigmatism, after pterygium resection, healed corneal lacerations, keratoconus:Instrumentation for Measurment and Observation
+
+The eyepiece of the keratometer should be focused how often?:Daily:Instrumentation for Measurment and Observation
+
+How to extend the range of keratometer readings?By placing a trail lens over the eyepiece. -1.00D trail lens will provide a lower range to 30D. +1.25D will provide a higher range to 61D:Instrumentation for Measurment and Observation
+
+The keratometer eyepiece if not properly focused can cause...:Errors in correctly reading curvature:Instrumentation for Measurment and Observation
+
+In addition to measuring the cornea, the keratometer can be used to...:Check the curvature of a contact lens:Instrumentation for Measurment and Observation
+
+When the keratometer is properly aligned in front of an eye, the patient will see...:A green light:Instrumentation for Measurment and Observation
+
+How do you calculate the amount of corneal astigmatism?By taking the diffrence between the horizontal and vertical drum readings:Instrumentation for Measurment and Observation
+
+When the keratometer is out of focus on the cornea...:The central focusing circle, the plus, and minus signs are doubled:Instrumentation for Measurment and Observation
+
+When measuring the horizontal meridian with the keratometer...:The plus mires are superimposed:Instrumentation for Measurment and Observation
