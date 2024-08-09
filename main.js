@@ -1,36 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Mock login functionality
-    const adminCredentials = {
-        username: 'admin',
-        password: 'admin123'
-    };
-
     const loginForm = document.getElementById('login-form');
     const flashcardForm = document.getElementById('flashcard-form');
     const cardWrapper = document.getElementById('card-wrapper');
     const categorySelect = document.getElementById('category-select');
     let categories = new Set();
 
-    /*
-    loginForm.addEventListener('submit', function(event) {
-        event.preventDefault();
-        const username = document.getElementById('username').value;
-        const password = document.getElementById('password').value;
-
-        if (username === adminCredentials.username && password === adminCredentials.password) {
-            alert('Login successful');
-            loginForm.style.display = 'none';
-            flashcardForm.style.display = 'block';
-        } else {
-            alert('Invalid credentials');
-        }
-    });
-    */
-
     function loadFlashcards() {
-        // Clear existing cards to prevent duplication
         cardWrapper.innerHTML = '';
-
         const savedFlashcards = JSON.parse(localStorage.getItem('flashcards')) || [];
         savedFlashcards.forEach(term => createCard(term));
         updateCategoryDropdown();
@@ -70,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
         adjustFontSize(front.querySelector('.term'));
         adjustFontSize(back.querySelector('.term'));
     }
+
     function adjustFontSize(element) {
         let fontSize = parseInt(window.getComputedStyle(element).fontSize);
         const maxHeight = element.parentElement.clientHeight;
@@ -78,10 +55,9 @@ document.addEventListener('DOMContentLoaded', function() {
         while (element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) {
             fontSize -= 1;
             element.style.fontSize = `${fontSize}px`;
-            if (fontSize <= 10) break; // Prevent font size from getting too small
+            if (fontSize <= 10) break;
         }
     }
-
 
     function updateCategoryDropdown() {
         categorySelect.innerHTML = '<option value="all">All</option>';
@@ -96,15 +72,27 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('instrumentation-for-measurment-and-observation.txt')
         .then(response => response.text())
         .then(data => {
-            const terms = data.split('\n').filter(line => line.trim() !== '' && !line.startsWith('#'));
-            terms.forEach(term => createCard(term));
+            const lines = data.split('\n');
+            let currentCategory = '';
+
+            lines.forEach(line => {
+                line = line.trim();
+                if (line.startsWith('#')) {
+                    // Update the current category if the line starts with '#'
+                    currentCategory = line.substring(1).trim();
+                } else if (line !== '') {
+                    // Create a flashcard using the current category
+                    const term = `${line}:${currentCategory}`;
+                    createCard(term);
+                }
+            });
+
             updateCategoryDropdown();
         })
         .catch(error => console.error('Error fetching data:', error));
 
     loadFlashcards();
 
-    // Filter cards based on the selected category
     categorySelect.addEventListener('change', function() {
         const selectedCategory = categorySelect.value;
         const cards = cardWrapper.getElementsByClassName('card');
@@ -113,7 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Handle form submission to add new flashcards
     flashcardForm.addEventListener('submit', (event) => {
         event.preventDefault();
         const formData = new FormData(flashcardForm);
