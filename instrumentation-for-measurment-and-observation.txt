@@ -1,42 +1,107 @@
 # Instrumentation for Measurment and Observation
-The doubling device of the keratometer is necessary due to...:Fine tremor of the eye.:Instrumentation for Measurment and Observation
 
-What doubling technique is typically utilized by the keratometer?:Constant object size with variable doubling.:Instrumentation for Measurment and Observation
+The doubling device of the keratometer is necessary due to...:Fine tremor of the eye.
 
-What is the primary use of the keratometer?:To measure the radius of curvature of the apex of the anterior surface of the cornea.:Instrumentation for Measurment and Observation
+What doubling technique is typically utilized by the keratometer?:Constant object size with variable doubling.
 
-what is the combined refractive index of the cornea and aqueous?:1.3375:Instrumentation for Measurment and Observation
+What is the primary use of the keratometer?:To measure the radius of curvature of the apex of the anterior surface of the cornea.
 
-What is the conversion formula of diopter to millimeter?:Diopters=(1.3375 - 1.00)/meters:Instrumentation for Measurment and Observation
+what is the combined refractive index of the cornea and aqueous?:1.3375
 
-How to convert meters to millimeters:D=337.5/meters:Instrumentation for Measurment and Observation
+What is the conversion formula of diopter to millimeter?:Diopters=(1.3375 - 1.00)/meters
 
-The size of the mire (target) on the front of the keratometer is...:64mm:Instrumentation for Measurment and Observation
+How to convert meters to millimeters:D=337.5/meters
 
-What is the distance from the front of the keratometer to the front of the cornea when the keratometer is in focus is...:75mm:Instrumentation for Measurment and Observation
+The size of the mire (target) on the front of the keratometer is...:64mm
 
-The keratometer derives its measurment of a meridian from how many points on the cornea?:2:Instrumentation for Measurment and Observation
+What is the distance from the front of the keratometer to the front of the cornea when the keratometer is in focus is...:75mm
 
-The range of curvatures the keratometer can measure without auxiliary lenses is...:36.00D to 52.00D:Instrumentation for Measurment and Observation
+The keratometer derives its measurment of a meridian from how many points on the cornea?:2
 
-The chord length of the mire measured by the keratometer without auxiliary lenses is...:3.8mm to 2.6mm:Instrumentation for Measurment and Observation
+The range of curvatures the keratometer can measure without auxiliary lenses is...:36.00D to 52.00D
 
-When classic keratometry is preformed by having the patient sight on the mirror image of their eye, alignment of what is accomplished?:The optical axis with the visual axis:Instrumentation for Measurment and Observation
+The chord length of the mire measured by the keratometer without auxiliary lenses is...:3.8mm to 2.6mm
 
-Keratometer fixation techniques will not produce true measurments due to what ocular conditions?:Unusually high astigmatism, post-cataract extraction, post-keratoplasty, irregular astigmatism, after pterygium resection, healed corneal lacerations, keratoconus:Instrumentation for Measurment and Observation
+When classic keratometry is preformed by having the patient sight on the mirror image of their eye, alignment of what is accomplished?:The optical axis with the visual axis
 
-The eyepiece of the keratometer should be focused how often?:Daily:Instrumentation for Measurment and Observation
+Keratometer fixation techniques will not produce true measurments due to what ocular conditions?:Unusually high astigmatism, post-cataract extraction, post-keratoplasty, irregular astigmatism, after pterygium resection, healed corneal lacerations, keratoconus
 
-How to extend the range of keratometer readings?:By placing a trail lens over the eyepiece. -1.00D trail lens will provide a lower range to 30D. +1.25D will provide a higher range to 61D:Instrumentation for Measurment and Observation
+The eyepiece of the keratometer should be focused how often?:Daily
 
-The keratometer eyepiece if not properly focused can cause...:Errors in correctly reading curvature:Instrumentation for Measurment and Observation
+How to extend the range of keratometer readings?:By placing a trail lens over the eyepiece. -1.00D trail lens will provide a lower range to 30D. +1.25D will provide a higher range to 61D
 
-In addition to measuring the cornea, the keratometer can be used to...:Check the curvature of a contact lens:Instrumentation for Measurment and Observation
+The keratometer eyepiece if not properly focused can cause...:Errors in correctly reading curvature
 
-When the keratometer is properly aligned in front of an eye, the patient will see...:A green light:Instrumentation for Measurment and Observation
+In addition to measuring the cornea, the keratometer can be used to...:Check the curvature of a contact lens
 
-How do you calculate the amount of corneal astigmatism?By taking the diffrence between the horizontal and vertical drum readings:Instrumentation for Measurment and Observation
+When the keratometer is properly aligned in front of an eye, the patient will see...:A green light
 
-When the keratometer is out of focus on the cornea...:The central focusing circle, the plus, and minus signs are doubled:Instrumentation for Measurment and Observation
+How do you calculate the amount of corneal astigmatism?:By taking the diffrence between the horizontal and vertical drum readings
 
-When measuring the horizontal meridian with the keratometer...:The plus mires are superimposed:Instrumentation for Measurment and Observation
+When the keratometer is out of focus on the cornea...:The central focusing circle, the plus, and minus signs are doubled
+
+When measuring the horizontal meridian with the keratometer...:The plus mires are superimposed
+
+What is the first step that should be performed when taking keratometer measurements?:Focus the eyepiece.
+
+What do we measure with the keratometer?:Corneal curvature.
+
+Which of the following is most likely to cause transient keratometric mire distortion?:Pre-ocular tear film.
+
+Which auxiliary trial lens will extend the keratometer range to approximately 61D?:+1.25
+
+Which of the following statements accurately describes a Schirmer I test?:A patient with normal tear output should wet at least 15mm of the strip in 5 minutes.
+
+What do we measure when we place the concave side of a gas permeable lens against the lens stop of the lensometer?:Back vertex power.
+
+Which instrument allows simultaneous verification of lens diameter, optical zone width and peripheral curve width?:A measuring magnifier.
+
+A contact lens thickness gauge measures the thickness of a rigid lens to be 0.73mm. This is most likely which type of lens?:High plus power.
+
+What will the mires of a warped corneal rigid lens show on the radiuscope and the lensometer?:Two base curves / spherical
+
+What parameters of a rigid lens can be confirm with a measuring magnifier?:Posterior optic zone diameter and overall diameter.
+
+Why is the use of a Wratten #12 or Tiffen yellow filter important in evaluating the fluorescein pattern of patients with GP lenses?:Many GP lenses have UV inhibitors that block the accurate fluorescein pattern.
+
+What does the V gauge measure?:The diameter of a rigid lens.
+
+Which slit lamp illumination gives an overall view of the cornea, but limits detail?:Diffuse.
+
+What slit lamp technique should the practitioner use to detect gross corneal edema?:The naked eye and an angle between the slit lamp beam and the eye of 45 degrees.
+
+Which type of slit lamp illumination will allow you to determine corneal thickening, thinning, distortion and depth of foreign bodies or opacities in the cornea?:Optic section.
+
+Which method of slit lamp illumination makes it easiest to detect corneal microcysts?:Retroillumination.
+
+Which type of slit lamp illumination is used for observing tear film break up time?:Diffuse illumination.
+
+With which of the following must a special filter be used to evaluate fluorescein patterns?:Polymers with a UV blocker.
+
+Why do we use a Wratten #12 filter with the biomicroscope?:To enhance fluorescein evaluation.
+
+What does it mean when the Placido rings on a corneal topographer are very close together?:The cornea is steep.
+
+What instrument is used to measure and evaluate corneal curvature and elevation of the anterior and posterior cornea?:Video Keratographer.
+
+When the topography of a corneal transplant patient is steepest in one meridian and flattest 90 degrees away what does this indicate?:Regular Astigmatism.
+
+Which of the following maps are used most often when evaluating corneal topography?:Axial and Tangential.
+
+What is the purpose of LARS Principle?:To provide a formula for adjusting axis rotation of a toric lens.
+
+Which of the following might cause an inability to bring the keratometer mires into clear focus?:Irregular astigmatism.
+
+A patient has a tear-film Break-Up-Time (BUT) of 7 seconds. What soft lens modality will best suit this patient?:A daily disposable soft lens.
+
+During the slit-lamp examination the practitioner notes small yellowish raised nodules on the conjunctiva a three and nine o'clock. How might they be affected by contact lens wear?:They might become inflamed if they are rubbed by the lens edge.
+
+Mary's best-corrected vision with glasses is 20/60 OD. How can we determine whether her vision may be improved with contact lenses?:Recheck her vision using a pinhole disc.
+
+John's topography shows a blue circular area in the center, surrounded by circles of green, then yellow, then orange. What can we determine by looking at this map?:John has had refractive surgery.
+
+What condition might be indicated by low tear film break-up time, punctate keratitis, conjunctival staining and decreased tear meniscus?:Dry eye.
+
+What type of astigmatism is indicated when the K-readings have axis readings that are not 90 degrees apart?:Irregular astigmatism.
+
+Keratometry readings show measurements of 45.50/49.25 x 095. Mires have mild distortion and you are unable to achieve 20/20 acuity with refraction. What condition does this most likely indicate?:Keratoconus.
