@@ -3,8 +3,8 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
+
 main > .card {
-    text-align: center;
     font-size: 18pt;
 
     height: 200px;
@@ -19,10 +19,12 @@ main > .card {
     position: relative;
 
     perspective: 1000px;
-
 }
 
 main > .card > .front, main > .card > .back {
+    display: flex;
+    justify-content: center; /* Horizontally center the main content */
+    align-items: center; /* Vertically center the main content */
 
     height: 100%;
     width: 100%;
@@ -33,12 +35,24 @@ main > .card > .front, main > .card > .back {
 
     border: 1px solid black;
     border-radius: 5px;
-    
+
+    box-sizing: border-box; /* Include padding in height/width calculation */
 }
+
 .category {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+
     font-size: 14px; /* Adjust as needed */
     color: #888; /* Optional: Adjust color */
-    text-align: left;
-    padding-left: 15px;
-    padding-top: 10px;
 }
+
+/* Optional: Ensure text in the .term is centered */
+.term {
+    text-align: center;
+    padding: 0 10px; /* Optional: add some padding for text */
+    font-size: .9em; /* Adjust the size relative to the viewport width */
+
+}
+
