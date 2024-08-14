@@ -105,3 +105,207 @@ What condition might be indicated by low tear film break-up time, punctate kerat
 What type of astigmatism is indicated when the K-readings have axis readings that are not 90 degrees apart?:Irregular astigmatism.
 
 Keratometry readings show measurements of 45.50/49.25 x 095. Mires have mild distortion and you are unable to achieve 20/20 acuity with refraction. What condition does this most likely indicate?:Keratoconus.
+
+
+# Slit lamp illuminations
+
+Which method of slit lamp illumination makes it easiest to detect corneal microcysts?:Retroillumination.
+
+Which type of slit lamp illumination is used for observing tear film break up time?:Diffuse illumination.
+
+Which type of slit lamp illumination when used reflects the slit lamp beam off the iris, highlights these very small, optically empty cysts?:Indirect retroillumination
+
+Which type of slit lamp illumination allows the practitioner to observe the quality and characteristics of the front surface of the contact lens on the eye and to evaluate the fit of the lens?:Direct illumination
+
+Which type of slit lamp illumination allows observation of the corneal epithelial surface, the front surface of the contact lens, mucus and cellular debris in the tears, and the endothelial mosaic?:Specular microscopy
+
+Which type of slit lamp illumination directs an intense beam of light to the sclera near the temporal limbus, creating a circumcorneal halo, which appears as an orange-colored glow around the cornea and exposes areas where the cornea is not transparent, used to detect corneal edema?:Sclerotic scatter
+
+Which type of slit lamp illumination is used when observing the break up of fluorescein on the cornea?:Diffuse illumination
+
+Which slit lamp illuminations use a narrow beam and high magnification to observe contact lens thickness and corneal profile?:Optic section and direct illumination
+
+Which slit lamp illumination permits observation of corneal edema, corneal vascularization, corneal lesions and deposits, deposits on Descemet's membrane, and abnormalities of the anterior portion of the crystalline lens?:Retroillumination
+
+# Other
+
+Which of the following statements accurately describes a Schirmer I test?:A patient with normal tear output should wet at least 15 of the strip in 5 minutes.
+
+Is anesthesia used during Schirmer I test?:No
+
+What does the V gauge measure?:The diameter of a rigid lens.
+
+Which type of slit lamp illumination will allow you to determine corneal thickening, thinning, distortion and depth of foreign bodies or opacities in the cornea?:Optic section.
+
+What does it mean when the Placido rings on a corneal topographer are very close together?:The cornea is steep.
+
+What do the rings on the Placido rings mean?:The closer the rings, the steeper the cornea; the further apart the rings, the flatter the cornea. An irregular cornea would cause the rings to be distorted; an aspheric cornea would cause the rings to be ellipsoidal, rather than round.
+
+What do you call an irregular flattening or steepening from one edge of the map to the other?:A graft tilt
+
+What do you call an irregular steep area (red color on the map) surrounded by much flatter areas (blue and green)?:A graft bulge
+
+What do you call a large, flat area centrally, like the head of a drum?:A drumhead graft
+
+A patient has a tear-film Break-Up-Time (BUT) of 7 seconds. What soft lens modality will best suit this patient?:Many patients with a low tear film break-up-time will be able to tolerate contact lenses only on a part time basis. Use of a daily disposable modality will eliminate the need to keep track of how many times a planned replacement lens was worn and whether the solution it was stored in was still effective at destroying microorganisms.
+
+
+# Terms
+Corneal edema: Swelling of the cornea due to fluid accumulation, often caused by hypoxia or overwear of contact lenses.
+
+Diffuse central punctate staining: A pattern of small, dot-like corneal epithelial defects that occur centrally, often due to contact lens wear, dry eyes, or toxic solutions.
+
+Multi-purpose soft lens solution: A solution used to clean, disinfect, rinse, and store soft contact lenses, designed for daily use.
+
+Preservatives: Chemical agents added to contact lens solutions to prevent microbial growth.
+
+Pinpoint pools: Small, localized areas of fluorescein dye pooling on the cornea, often indicating epithelial defects or irregularities.
+
+Dimple veiling: Small indentations or dimples on the corneal surface, typically caused by air bubbles trapped beneath a contact lens.
+
+Superficial Punctate Keratitis (SPK): A condition characterized by tiny, superficial lesions on the cornea, often associated with contact lens wear or dry eyes.
+
+CLARE: Contact Lens-Induced Acute Red Eye, a condition characterized by redness, discomfort, and inflammation caused by overnight wear of contact lenses.
+
+Epithelial splitting: A separation or splitting of the corneal epithelial cells, often due to mechanical trauma or lens-induced damage.
+
+Modulus: A measure of a contact lens material's stiffness or resistance to deformation, affecting lens fit and comfort.
+
+3 and 9 o'clock staining: Staining of the cornea at the 3 and 9 o'clock positions, often seen with rigid gas permeable (RGP) lenses, due to lens edge interaction with the cornea.
+
+Inferiorly: Referring to the lower part of the eye or cornea.
+
+Prism ballast: A design feature in certain contact lenses, particularly toric lenses, where the lens is thicker at the bottom to help it orient properly on the eye.
+
+Hypoxia: A condition where the cornea receives insufficient oxygen, often due to tight or extended wear contact lenses.
+
+Mucin balls: Small, spherical accumulations of mucin and tear film components, often found under contact lenses and associated with lens movement.
+
+Tangible hydra-PEG: A coating applied to contact lenses to increase surface wettability and comfort, particularly for patients with dry eyes.
+
+Unique pH: A brand name for a multi-purpose solution designed to maintain a stable pH balance for comfort and eye health during contact lens wear.
+
+Miraflow: A discontinued but once popular contact lens cleaner known for its strong cleaning ability, particularly for removing protein deposits.
+
+Progent: A two-part system used for the deep cleaning and disinfection of rigid gas permeable (RGP) contact lenses.
+
+Acanthamoeba keratitis: A rare but serious eye infection caused by the Acanthamoeba organism, often associated with improper contact lens care.
+
+Benzalkonium Chloride: A preservative commonly used in contact lens solutions, known for its antimicrobial properties.
+
+Polyquad: A preservative used in some contact lens solutions, designed to be less irritating to the eye than other preservatives.
+
+Biguanide: A class of disinfectants used in contact lens solutions, effective against a broad range of microorganisms.
+
+Dymed: A trademarked name for polyaminopropyl biguanide (PAPB), used as a disinfectant in contact lens solutions.
+
+Video Keratographer: An instrument used to map the surface curvature of the cornea, helping to diagnose and manage conditions like keratoconus.
+
+Ocular coherence tomographer: A device used for imaging the layers of the retina and the cornea, providing detailed cross-sectional images.
+
+Graft tilt: A postoperative complication in corneal transplant surgery where the grafted tissue is not properly aligned with the host cornea.
+
+Graft bulge: A complication of corneal transplant surgery where the grafted tissue bulges forward, often due to poor healing or rejection.
+
+Drumhead Graft: A term used to describe a corneal graft that is taut and smooth, resembling a drumhead.
+
+Anterior float: A phenomenon where the front part of the cornea appears elevated or protruding, often seen in keratoconus or post-surgical eyes.
+
+Pachymetry: The measurement of corneal thickness, important in assessing corneal health and suitability for refractive surgery.
+
+Conjunctiva: The thin, transparent tissue covering the white part of the eye (sclera) and the inner surface of the eyelids.
+
+Visual field test: A test used to measure the range and sensitivity of a person's peripheral vision, often used to detect glaucoma and other eye conditions.
+
+Pinhole disc: A diagnostic tool used to determine whether a refractive error or other issue is causing reduced vision; it allows light to enter the eye only through a small aperture.
+
+OCT: Optical Coherence Tomography, a non-invasive imaging technique used to capture detailed images of the retina and cornea.
+
+Strabismus: A condition where the eyes do not align properly, leading to double vision or the inability to focus on a single point.
+
+Keratoconus: A progressive eye disorder where the cornea thins and bulges into a cone-like shape, distorting vision.
+
+Dry eye: A condition where the eyes do not produce enough tears or the right quality of tears, leading to discomfort and visual disturbances.
+
+Iritis: Inflammation of the iris, the colored part of the eye, often causing pain, redness, and light sensitivity.
+
+Dimple veiling: Small indentations on the corneal surface caused by air bubbles trapped under a contact lens, leading to visual disturbances.
+
+Salzmann's Corneal Dystrophy: A rare, non-inflammatory condition where nodules form on the cornea, leading to vision problems.
+
+Amblyopia: Also known as "lazy eye," a condition where one eye has reduced vision not correctable by glasses or contact lenses, often due to poor eye development in childhood.
+
+Tear film break-up-time (BUT): A test to determine the quality of tears in a contact lens wearer or candidate; Fluorescein is instilled in the eye, the patient is asked to blink, and the tear film is observed through the cobolt blue filter on the slit-lamp. If dry spots appear on the cornea is less than 10 seconds, the tear quality may not be adequate for successful contact lens wear.
+
+
+# Ocular Anatomy, Physiology, and Pathology Terms
+
+Average pH value for human tears:7.4
+
+Main source of oxygen to the cornea:Tear film
+
+Which layer of the cornea is responsible for maintaining its transparency?:Endothelium(last layer)
+
+Normal tear film break-up-time (BUT):10-12 seconds
+
+Arcus Senilis:Effects the cornea's thickest layer, the stroma. Often seen in the elderly.
+
+Aphakic:refers to a patient whose crystalline lens has been removed.
+
+Eyelids:They are the first line of defense in the protective system of the eye.
+
+Pseudophakic:Term for a patient who has had catarct surgery with implantation of an intraocular lens
+
+Antihistmines:These medications may affect successful contact lens wear
+
+Diabetes:May be the reason for fluctuations in a patient's refractive error
+
+Keratitis Sicca:Severe dry eye common with rheumatoid arthritis
+
+Recurrent erosion:With this condition we need minimal movement to protect the epithelial layer, we use theraputic soft lenses.
+
+When epithelial cells suffer trauma, what is the first step toward resolution?:The epithelial cells adjacent will migrate
+
+Contact Lens Acute Red Eye (CLARE):is an inflammatory condition of the eye that occurs in contact lens wearers, typically associated with overnight or extended wear of soft contact lenses. CLARE is characterized by sudden onset of redness, discomfort, and irritation in the eye, usually upon waking.
+
+Vascularized Limbal keratitis (VLK):causes dryness and burning, with localized redness and vascularization along the horizontal meridian. VLK is due to tight, low riding, thick edges of GP lenses.
+
+Superior Limbic Keratitis (SLK):is an inflammation involving the conjunctiva and cornea in the area covered by the upper lid. Patient complaints include irritation, tearing, redness, sensitivity to light, and loss of tolerance to the contact lenses. It can be a reaction to chemicals in contact lens care solutions or to non-contact lens causes.
+
+Giant-cell Papillary Conjunctivitis (GPC):symptoms are itching and foreign body sensation, with mucus secretion and excessive contact lens movement.
+
+Superfical Punctate Keritits (SPK):These are pinpoint lesions that can occur anywhere on the cornea
+
+Superior Epithelial Arcuate Lesion (SEAL):is a type of corneal injury that commonly occurs in people who wear contact lenses, particularly extended-wear soft contact lenses. The lesion typically appears as a curved, superficial defect on the upper (superior) part of the cornea, near where the eyelid meets the eye.
+
+Arcuate staining: Arcuate staining can be caused by probles with GP lens edges or buildup in lens periphery.
+
+Desiccation: is abnormal drying of the corneal epithelium, usually just outside the edge of a rigid or decentered soft lens
+
+Mucin balls:Mucin balls are small, spherical accumulations of mucin, a component of the tear film, that form between the cornea and a contact lens. They are most commonly associated with the use of soft contact lenses, particularly those worn overnight or for extended periods. Mucin is a glycoprotein that helps maintain the stability of the tear film and lubricates the eye's surface.
+
+Corneal ulcer:is an open sore or erosion that occurs on the cornea, the clear, dome-shaped surface that covers the front of the eye. Corneal ulcers are often painful and can lead to serious complications, including vision loss, if not treated promptly.
+
+Viral adenopathy: viral adenopathy typically refers to the swelling of lymph nodes around the eyes due to a viral infection. This can occur in several ways including; Conjunctivitis (Pink Eye) or Preauricular Lymphadenopathy
+
+Contact Lens Peripheral Ulcer (CLPU):is an ulcerative lesion that develops on the cornea, typically in the peripheral (outer) area, due to wearing contact lenses. It is a type of corneal ulcer that can occur when the contact lenses cause irritation or an infection in the eye.
+
+Blepharitis: is inflammation of the eyelids.
+
+Chalazion: is an inflammatory enlargement of a Meibomian gland of the eyelid.
+
+Striae: These are wrinkles or folds seen in the cornea. Vogt's striae are vertical (rarely horizontal) fine, whitish lines in the deep/posterior stroma and descemet's membrane, commonly found in patients with keratoconus.
+
+Microbial keratitis: is a corneal infection.
+
+What do we call peripheral corneal desiccation and roughening of corneal epithelium along the horizontal meridian?: 3 & 9 o'clock stainingo
+
+Corneal dellen: is a localized zone of corneal thinning, usually at the limbus, caused by excessive dehydration.
+
+Superior limbic keratoconjunctivitis or superior limbic keratitis (SLK): is an inflammation involving the conjunctiva and cornea in the area covered by the upper lid.
+
+Giant-cell Papillary Conjunctivitis (GPC): is an autoimmune inflammation of the tarsal conjunctiva, often associate with poor contact lens care and failure to replace contact lenses at recommended intervals.
+
+Microcysts:
+
+Vertex distance adjustment: spectacle sph/1 - (meter x spectacle). When converting from mm to meters think of money
